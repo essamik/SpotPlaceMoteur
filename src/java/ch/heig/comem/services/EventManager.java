@@ -51,6 +51,7 @@ public class EventManager implements EventManagerLocal {
         player.addEvent(event);
 
         for (Rule r : application.getRules()) {
+      ///lol      
             if (r.getOnEventType().equals(type)) {
                 player.setScore(player.getScore() + r.getNumberOfPoints());
                
