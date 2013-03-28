@@ -14,6 +14,7 @@ Le moteur de gamification lié à l'application SpotPlace.
 7. In browser, click on "populate"
 
 ATTENTION:
+
 8. Open SpotPlace in Eclipse (with ANDROID API 9 installed)
 9. In folder src -> ch.heig.comem.spotplace.utilities open ServerUrl.java
 10. Put your server's ip adress and port in the file and save
