@@ -1,7 +1,11 @@
 SpotPlaceMoteur
 ===============
 
-Le moteur de gamification lié à l'application SpotPlace.
+The gamification engine linked to the application SpotPlace.
+
+Please download the .zip folder at the root of the repository
+
+------------------------------------------------------------------
 
 1. Open "SpotPlaceMoteur" & "SpotPlaceApplication" in Netbeans
 
